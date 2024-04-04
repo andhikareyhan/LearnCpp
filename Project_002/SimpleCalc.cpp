@@ -11,5 +11,6 @@ int main() {
     sum = x + y;
 
     cout << "The total is: " << sum;
+    
     return 0;
 }
